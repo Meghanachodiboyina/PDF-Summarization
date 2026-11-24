@@ -1,0 +1,10 @@
+streamlit>=1.67,<2
+pandas>=2,<4
+PyMuPDF>=1.24,<3
+pytesseract>=0.3.13,<1
+Pillow>=10,<14
+requests>=2.32,<3
+pydantic>=2.8,<3
+python-dateutil>=2.9,<5
+python-docx>=1.1,<2
+pytest>=8,<10
